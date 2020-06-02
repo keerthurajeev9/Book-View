@@ -1,0 +1,142 @@
+body{
+    overflow-x:hidden;
+    color:black;
+}
+.navbar{
+    text-transform: uppercase;
+    font-weight:700;
+    color: black;
+    font-family: 'Amatic SC', cursive;
+}
+
+.navbar-nav li{
+    padding-right:.7rem;
+}
+
+.carousel-item{
+    height:100vh;
+}
+.carousel-caption{
+    margin-bottom: 15%;
+}
+.dropdown{
+   
+    font-weight:bold;
+}
+.icons{
+    height:45px;
+    width:45px;
+}
+.maino{
+    border:1px solid  #faeee7;
+    
+    
+    background-color:  #faeee7;
+    
+    text-align: center;
+}
+.castle{
+  color:#6983aa;
+ }
+h5{
+    padding-top:10px;
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size:25px;
+    font-weight:bold;
+    color:black;
+}
+.cardd{
+    height: 400px;
+    border-radius: 50%;
+    border: 5px solid #bbf1c8;
+    
+    
+}
+ .carddd{
+    border-radius: 50%;
+    height:250px;
+    width:250px;
+    border: 5px solid #bbf1c8;
+    
+    margin-left:10%;
+    
+    
+} 
+.c-title{
+    font-family: 'Amatic SC', cursive;
+    font-size:30px;
+    text-align: center;
+    color:black;
+}
+.c-text{
+    font-family: 'Josefin Slab', serif;
+    font-size: 20px;
+    
+    line-height:1.5;    
+    text-align: center;
+}
+.jumb{
+  
+    background-color: #bbf1c8;
+    width:auto;
+    height:auto;
+    
+}
+.con{
+    margin-top: 45px;
+}
+
+.fav-head{
+    font-family: 'Amatic SC', cursive;
+    font-size:45px;
+    font-weight: bold;
+    
+    text-align: center;
+}
+.fav{
+    margin-top: 15px;
+}
+.go{
+    margin: 0%;
+   
+}
+ .carousel-control-prev-icon{
+    margin-right: 10px;
+    color:black;
+}
+.carousel-control-next-icon{
+    margin-left: 5%;
+}
+.round{
+     background-color: #f4f4f4;
+     border:5px solid #f4f4f4;
+}
+.color{
+    background-color: #f4f4f4; 
+}
+.image{
+    height:250px;
+    width:250px;
+    border-radius: 25%;
+    
+    margin-left: 15%;
+}
+.c-title{
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+    text-align: center;
+    font-weight:bold;
+    padding-top: 40px;
+}
+.c-text {
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+   
+    line-height: 1.5;
+    text-align: center;
+}
+.emojis{
+    width:35px;
+    height:35px;
+    margin-bottom:30px;
+}
