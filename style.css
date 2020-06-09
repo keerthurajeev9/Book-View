@@ -52,6 +52,10 @@ h5{
     
     
 }
+#summer{
+    height:720px;
+}
+
  .carddd{
     border-radius: 50%;
     height:250px;
@@ -139,4 +143,7 @@ h5{
     width:35px;
     height:35px;
     margin-bottom:30px;
+}
+.end{
+    height:150px;
 }
