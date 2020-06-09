@@ -144,6 +144,47 @@ h5{
     height:35px;
     margin-bottom:30px;
 }
-.end{
+.endo{
     height:160px;
 }
+#foot{
+    background-color: #fde2e2;
+    padding-left:20%;
+    color:black;
+    
+    padding-bottom:6%;
+
+}
+.octo{
+    
+    width:40px;
+    height:40px;
+    
+    margin-left: 170px;
+}
+.koala{
+    height:60px;
+    width:60px;
+    margin-left:40px;
+}
+    .end{
+        margin-left: 315px;
+        color:black;
+      text-align: center;
+        padding-top:1%;
+        font-size:55px;
+       height:150px;
+        padding-bottom: 50px;
+    font-weight: bold;
+    font-family: 'Amatic SC', cursive;
+    }
+    .end1{
+        font-size:20px;
+        
+        margin-top: 40px;
+        color:#679b9b;
+        padding-left: 340px;
+        margin-bottom:-80px;
+        font-family: 'Sacramento', cursive;
+    }
+   
